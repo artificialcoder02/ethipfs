@@ -1,6 +1,12 @@
-# ethipfs
-A simple DApp to upload a document to IPFS and then store the IPFS hash on the Ethereum blockchain
-“IPFS and the Blockchain are a perfect match! You can address large amounts of data with IPFS, and place the immutable, permanent IPFS links into a blockchain transaction. This timestamps and secures your content, without having to put the data on the chain itself.”
+
+  
+
+##  ``` Decentralized File Storage IPFS```
+
+![fsvnkj](./public/img1.png)
+  
+
+> “IPFS and the Blockchain are a perfect match! You can address large amounts of data with IPFS, and place the immutable, permanent IPFS links into a blockchain transaction. This timestamps and secures your content, without having to put the data on the chain itself.”
 
 A simple DApp to upload a document to IPFS and then store the IPFS hash on the Ethereum blockchain. Once the IPFS hash number is sent to the Ethereum blockchain, the user will receive a transaction hash. We will use Create-React-App framework to make a front-end. This Dapp works with any user that has MetaMask installed in their browser.  
   
@@ -19,7 +25,7 @@ A simple DApp to upload a document to IPFS and then store the IPFS hash on the E
 2. Clone the repository
 
 ```sh
-git clone https://github.com/artificialcoder02/eth-ipfs.git
+git clone https://github.com/artificialcoder02/ethipfs.git
 ```
 
 3. Open the folder in which you cloned the repository.
@@ -40,3 +46,13 @@ truffle migrate
 ```sh
 npm start
 ```
+
+  
+  
+  
+
+<!--
+
+https://itnext.io/build-a-simple-ethereum-interplanetary-file-system-ipfs-react-js-dapp-23ff4914ce4e
+
+-->
